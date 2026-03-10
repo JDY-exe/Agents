@@ -20,5 +20,5 @@ npm run e2e:ci      # If applicable, starts dev server and runs cypress tests
 ```
 
 ### Writing tests
-- For unit tests, mirror the main repository's structure, but under /project-root/test
+- For unit tests, mirror the main repository's structure, but under /frontend-root/test
 - For cypress tests, always separate fixture data from the .cy file itself. They should be in a separate directory.
